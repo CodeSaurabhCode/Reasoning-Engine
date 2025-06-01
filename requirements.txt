@@ -1,0 +1,14 @@
+azure-cosmos
+beautifulsoup4
+chromadb
+fastapi
+langchain
+langchain_community
+langchain-core
+python-dotenv
+python-docx
+python-pptx
+requests
+unstructured
+uvicorn
+python-multipart
